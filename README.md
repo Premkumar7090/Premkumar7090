@@ -12,7 +12,36 @@ I'm Prem Kumar!
 __Presidency University__
 - Data Science
 
-<h2>About #My Current Project</h2>
+<h3>My Recent Article</h3>
+
+[Lambda Function with practical examples](https://premkumar7090.medium.com/lambda-functions-with-practical-examples-in-python-a809d6102913)
+
+
+<h3>Check out my Recent Projects:</h3>
+
+[Covid19Tracker](https://github.com/Premkumar7090/covid-19-tracker-using-flask-and-bootstrap)
+
+[My covid 19 live  web App](https://covid19-tracker-webapp.herokuapp.com/covid)
+
+
+[Using-Data-Science-to-Predict-Viral-Tweets](https://github.com/Premkumar7090/Using-Data-Science-to-Predict-Viral-Tweets)
+
+<h3>About me:</h3>
+
+
+
+
+- Check out my Portfolio : 
+- Know more about me : 
+- Write to me : premkumarc1111@gmail.com
+
+<h3>How to reach me:</h3>
+
+
+
+
+
+
 
 
 
