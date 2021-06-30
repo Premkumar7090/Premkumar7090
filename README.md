@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Premkumar7090.svg?style=social&label=Follow&maxAge=2592000)
 
 I'm Prem Kumar!
-- <i>Currently : </i> Btech at Presidenny University at Bangalore.
+- <i>Currently : </i> Btech at Presidency University at Bangalore.
 
 <h2>💻 I'm Currently Learning</h2>
 
@@ -19,10 +19,9 @@ __Presidency University__
 
 <h3>Check out my Recent Projects:</h3>
 
-[Covid19Tracker](https://github.com/Premkumar7090/covid-19-tracker-using-flask-and-bootstrap)
-
 [My covid 19 live  web App](https://covid19-tracker-webapp.herokuapp.com/covid)
 
+[Build-your-own-Grammarly-in-Python-using-Django](https://github.com/Premkumar7090/Build-your-own-Grammarly-in-Python-using-Django)
 
 [Using-Data-Science-to-Predict-Viral-Tweets](https://github.com/Premkumar7090/Using-Data-Science-to-Predict-Viral-Tweets)
 
