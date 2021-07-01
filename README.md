@@ -34,7 +34,7 @@ __Presidency University__
 - Know more about me : 
 - Write to me : premkumarc1111@gmail.com
 
-<h3>How to reach me:</h3>
+
 
 
 
